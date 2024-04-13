@@ -1,0 +1,6 @@
+.ul-item li.active {
+  display: none;
+}
+.ul-item li {
+  display: block;
+}
